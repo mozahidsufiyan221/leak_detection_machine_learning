@@ -1,4 +1,4 @@
-### step 1 - run main.py file to generate joblib file and create machine learning model
+# step 1 - run main.py file to generate joblib file and create machine learning model
 ## step 2 - run realtimegenerator.py to see the results from soundwaves file
 This code implements a complete water flow audio classification system that trains machine learning models to classify audio into three categories: idle, normal flow, and leakage.
 
